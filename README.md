@@ -14,5 +14,5 @@ In this repository you will find the csv fiels for the cluttr data, the text fil
 
 ## Running and Replicating experiments: 
 
-The OpenAI environemnt keys have been removed for security reasons, but replacing them with you own key will let you execute any code by simplifiying the python and specifying the appropriate csv file. 
+The OpenAI environemnt keys have been removed for security reasons, but replacing them with you own key will let you execute any code by simplifiying the python and specifying the appropriate csv file. There is a possibility that the executing GPT scripts might not work unless computer permission is granted to run subprocesses from python, I personally had a few issues with this execution and had to use sudo commands and change security privleges briefly. 
 
