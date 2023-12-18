@@ -4,7 +4,7 @@ final project for computational cognitive science, team members: Krithik, Maxi, 
 
 ## Overview
 
-In this repository you will find code for the execution of the adapted PLoT with GPT for the Cluttr, Babi, E-share, and HOTPot QA.
+In this repository you will find code for the execution of the adapted PLoT with GPT for the Cluttr, Babi, E-share, and HOTPot QA. All code used in Final Project, Experimentation, and figures from the project were developed by Krithik Ramesh.
 
 
 ## Datasets in this repository: 
