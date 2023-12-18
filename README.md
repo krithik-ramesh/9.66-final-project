@@ -6,7 +6,6 @@ final project for computational cognitive science, team members: Krithik, Maxi, 
 
 In this repository you will find code for the execution of the adapted PLoT with GPT for the Cluttr, Babi, E-share, and HOTPot QA.
 
-There is also a small conceptual test using the bAbI dataset downloaded from Kaggle using GPT-3.5 and WebPPL demonstrating that for qa1_single-supporting-fact_test GPT-3.5 multiple times struggles to correct answer the simple deductive reasoning questions falsely claiming people's locations are unknown or there is not enough information to determine their location. However, the probabilistic program written in WebPPL successfully encodes the logical reasoning needed to correctly determine the location of the first person who's location GPT-3.5 claimed is unknown. This demonstrates proof of concept of offloading the cognitive burden of reasoning from LLMs to probabilistic programs.
 
 ## Datasets in this repository: 
 
