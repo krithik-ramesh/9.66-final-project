@@ -12,7 +12,6 @@ import io
 import contextlib
 
 # Set the API key
-os.environ["OPENAI_API_KEY"] = "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"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 headers = {
