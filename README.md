@@ -1,6 +1,8 @@
 # 9.66-final-project
 final project for computational cognitive science, team members: Krithik, Maxi, Reina. 
 
+Please start with CLUTRR code as it has full working examples
+
 
 ## Overview
 
