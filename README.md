@@ -1,5 +1,5 @@
 # 9.66-final-project
-final project for computational cognitive science, team members: Krithik, Maxi, Reina. All code used in Final Project, Experimentation, and figures from the project were developed by Krithik Ramesh.
+final project for computational cognitive science, team members: Krithik, Maxi, Reina. 
 
 
 ## Overview
